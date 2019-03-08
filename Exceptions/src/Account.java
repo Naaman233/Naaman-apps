@@ -1,4 +1,11 @@
-
+/*************************************
+ * A simple overview on an application                               
+ * designed to implement few banking
+ * functions. 
+ *************************************
+ 
+ 
+ 
 public class Account {
 	
 	public String Owner;
@@ -8,7 +15,7 @@ public class Account {
 	/************************
 	 * Constructor taking
 	 * three arguments
-	 * 
+	 * @ author Makafui Naaman
 	 ***********************/
 	public Account(String Owner,double Balance,int AcctNo) {
 		this.Owner = Owner;
